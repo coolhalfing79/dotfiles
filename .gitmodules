@@ -1,0 +1,12 @@
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:coolhalfing79/nvim-conf.git
+[submodule "hypr"]
+	path = hypr
+	url = git@github.com:coolhalfing79/hypr-conf.git
+[submodule "waybar"]
+	path = waybar
+	url = git@github.com:coolhalfing79/waybar-conf.git
+[submodule "wofi"]
+	path = wofi
+	url = git@github.com:coolhalfing79/wofi-conf.git
