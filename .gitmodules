@@ -1,12 +1,16 @@
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:coolhalfing79/nvim-conf.git
+	branch = mini
 [submodule "hypr"]
 	path = hypr
 	url = git@github.com:coolhalfing79/hypr-conf.git
+	branch = master
 [submodule "waybar"]
 	path = waybar
 	url = git@github.com:coolhalfing79/waybar-conf.git
+	branch = master
 [submodule "wofi"]
 	path = wofi
 	url = git@github.com:coolhalfing79/wofi-conf.git
+	branch = master
