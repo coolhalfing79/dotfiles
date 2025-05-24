@@ -10,3 +10,9 @@
 [submodule "wofi"]
 	path = wofi
 	url = git@github.com:coolhalfing79/wofi-conf.git
+[submodule "fish"]
+	path = fish
+	url = git@github.com:coolhalfing79/fish-conf.git
+[submodule "alacritty"]
+	path = alacritty
+	url = git@github.com:coolhalfing79/alacritty-conf.git
